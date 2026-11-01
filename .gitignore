@@ -36,3 +36,6 @@ captures/
 *.exe
 *.dll
 Tesseract-OCR/
+
+# Draft documentation (to be added upon project completion)
+README_DRAFT.md
