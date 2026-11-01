@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Databases & local state
+*.db
+*.sqlite3
+database/context.db
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Temporary outputs & screenshots
+screenshots/
+captures/
+*.log
+
+# Binaries, installers, and third-party tools
+*.exe
+*.dll
+Tesseract-OCR/

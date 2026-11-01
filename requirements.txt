@@ -1,0 +1,7 @@
+# Core dependencies for Context-Aware Prompt Generator
+mss>=10.2.0
+Pillow>=10.0.0
+pytesseract>=0.3.10
+ImageHash>=4.3.1
+numpy>=1.24.0
+scipy>=1.11.0
